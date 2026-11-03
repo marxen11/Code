@@ -14,10 +14,10 @@ elif ålder < 20:
 else:
     print("Du pår handla på systembolaget")
 namn = input("vad är dit namn?")
-if namn == Elias
+if namn == "Elias":
     print("Väldigt sofistikerat namn måste jag sega")
 elif namn == "Eliaz":
-    primnt(Så stavas det inte)
+    primnt("Så stavas det inte")
 else:
     print("Jag har hört betre")
 if ålder == 43 and namn == "Pär":
